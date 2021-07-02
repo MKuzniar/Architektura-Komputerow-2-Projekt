@@ -1,1 +1,2 @@
-# Architektura-Komputerow-2-Projekt
+# Architektura Komputerów 2 - Projekt
+Arytmetyka Wielkich Liczb
